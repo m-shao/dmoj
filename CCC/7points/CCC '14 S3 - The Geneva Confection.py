@@ -1,7 +1,6 @@
 t = int(input())
 ans = []
 
-
 for i in range(t):
     n = int(input())
     cars = [int(input()) for i in range(n)]
