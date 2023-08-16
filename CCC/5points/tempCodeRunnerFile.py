@@ -1,2 +1,2 @@
 
-    n, k = sample
+    if ind + 1 == len(instructions):  

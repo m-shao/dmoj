@@ -1,1 +1,1 @@
-
+possible.append(motel)
